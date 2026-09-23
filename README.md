@@ -31,15 +31,6 @@ Cada registro possui:
 
 Não foram utilizadas bibliotecas externas.
 
-## Como executar
-
-Com o Python instalado, execute:
-
-```bash
-python main.py
-
-Depois é só escolher uma das opções do menu.
-
 ## Por que fiz esse projeto?
 
 Estou aprendendo Python e queria começar a criar projetos próprios em vez de apenas acompanhar exercícios e aulas.
@@ -57,5 +48,14 @@ Adicionar filtros
 Trabalhar com coordenadas
 Criar gráficos com os dados
 Aprender a utilizar bancos de dados
+
+## Como executar
+
+Com o Python instalado, execute:
+
+```bash
+python main.py
+
+
 
 Status: Primeiro projeto — em desenvolvimento

@@ -39,16 +39,6 @@ Como tenho interesse em Biologia e biodiversidade, decidi usar esse tema para pr
 
 Esse é um projeto simples, mas pretendo melhorar a ideia conforme for estudando.
 
-## Próximos passos
-Adicionar nome científico
-Adicionar classificação taxonômica
-Adicionar habitat
-Pesquisar por espécie
-Adicionar filtros
-Trabalhar com coordenadas
-Criar gráficos com os dados
-Aprender a utilizar bancos de dados
-
 ## Como executar
 
 Com o Python instalado, execute:
@@ -57,5 +47,3 @@ Com o Python instalado, execute:
 python main.py
 
 
-
-Status: Primeiro projeto — em desenvolvimento
